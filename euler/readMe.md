@@ -1,0 +1,1 @@
+doing these quick and dirty with little optimizaiton

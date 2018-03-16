@@ -8,11 +8,11 @@
 */
 
 const LIMIT = 4000000
-let memory = [0, 1]
-let total = 0;
+let memory = [0, 1] // seeding isn't cheating punks
+let total = 0
 let evenTotal = 0
 
-function Fibonacci(term1, term2) {
+function fibonacci(term1, term2) {
   const nextEntry = term1 + term2
   const memoryLen = memory.length
 
