@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:maze": "parcel graphs/index.html"
   },
   "keywords": [],
   "author": "Brookes Stephens <broox9@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "http-server": "^0.10.0"
+    "babel-preset-env": "^1.7.0",
+    "http-server": "^0.10.0",
+    "parcel-bundler": "^1.9.7",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1"
   }
 }
