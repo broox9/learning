@@ -56,3 +56,10 @@ typings/
 
 # dotenv environment variables file
 .env
+
+
+# python
+py3/
+
+# vscode
+.vscode/

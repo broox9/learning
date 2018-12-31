@@ -1,0 +1,12 @@
+{
+  "name": "google-tech-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decompress.js",
+  "scripts": {
+    "decompress": "node ./decompress.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
