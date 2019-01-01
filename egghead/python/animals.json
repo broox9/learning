@@ -1,0 +1,7 @@
+[
+  { "name": "Ceaser", "type": "dog", "housebroken": "True" },
+  { "name": "Brookes", "type": "human", "housebroken": "True" },
+  { "name": "Mr. Ed", "type": "horse", "housebroken": "False" },
+  { "name": "Lady", "type": "dog", "housebroken": "False" },
+  { "name": "Onyx", "type": "dog", "housebroken": "True" }
+]

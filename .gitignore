@@ -60,6 +60,7 @@ typings/
 
 # python
 py3/
+__pycache__/
 
 # vscode
 .vscode/
